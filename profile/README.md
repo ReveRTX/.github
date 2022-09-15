@@ -1,4 +1,4 @@
-![riceDroid](https://github.com/RiceDroid/.github/raw/master/profile/rice.png)
+![riceDroid](https://github.com/RiceDroid/.github/raw/main/profile/rice.png)
 
 riceDroid 
 =====================
@@ -16,7 +16,7 @@ Manifest: contains all information about repositories of riceDroid, how to do de
 [Manifest](https://github.com/RiceDroid/android) 
 
 riceDroid Devices: repositories used to build riceDroid for every official releases are placed here. - 
-[riceDroid-Devices](https://github.com/riceDroid-Devices) 
+[riceDroid-Devices](https://github.com/riceDroid-Devices)
 
 After visiting these repositories, familiarize yourself with our build system and try to follow the steps below: 
 - Adapt your device tree / create files according to our 
